@@ -8,7 +8,7 @@
 
 <br/>
 
-![3rd Year Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=flat-square&labelColor=1a1a2e)
+![3rd Year Engineering Student](https://img.shields.io/badge/Third%20Year-Engineering%20Student-6D28D9?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
 <br/>
