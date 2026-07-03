@@ -8,21 +8,20 @@
 
 <br/>
 
-![Final Year Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=flat-square&labelColor=1a1a2e)
+![3rd Year Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=flat-square&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="www.linkedin.com/in/sri-kumaran-ct-119b43328"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:srikumaranct.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/sri-kumaran-ct"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/your-username?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers)
-![Stars](https://img.shields.io/github/stars/your-username?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=sri-kumaran-ct&style=flat-square&color=8b5cf6&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/sri-kumaran-ct?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers)
+![Stars](https://img.shields.io/github/stars/sri-kumaran-ct?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars)
 
 </div>
 
@@ -32,7 +31,7 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
-I'm a final-year engineering student and software engineer focused on building **AI-powered, production-grade applications** at the intersection of mobile development, machine learning, and scalable backend systems.
+I'm a 3rd Year engineering student and software engineer focused on building **AI-powered, production-grade applications** at the intersection of mobile development, machine learning, and scalable backend systems.
 
 My core engineering identity centers on:
 
@@ -41,18 +40,9 @@ My core engineering identity centers on:
 - 🌐 **Full Stack Development** — end-to-end ownership across React/Next.js frontends and Node.js/Express backends
 - ⚙️ **Product Engineering Mindset** — shipping features with honest trade-off evaluations rather than overclaiming capability, and iterating through real infrastructure constraints (build systems, dependency conflicts, platform migrations)
 
-I care about engineering discipline as much as feature velocity — architecture diagrams, ERDs, and phased feature rollouts are part of how I build, not an afterthought.
+I care about engineering discipline as much as feature velocity, architecture diagrams, ERDs, and phased feature rollouts are part of how I build, not an afterthought.
 
 <br/>
-
-**🎯 Open To:**
-
-![Open to Work](https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-8B5CF6?style=flat-square&labelColor=1a1a2e)
-![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20Engineering-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Open to Work](https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-6D28D9?style=flat-square&labelColor=1a1a2e)
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships-5B21B6?style=flat-square&labelColor=1a1a2e)
-
----
 
 ## Tech Stack
 
@@ -103,25 +93,6 @@ I care about engineering discipline as much as feature velocity — architecture
 
 ## Featured Projects
 
-<details>
-<summary><strong>📘 NoteSnap — AI-Powered Study Companion</strong></summary>
-
-<br/>
-
-An AI-powered Flutter mobile application that converts handwritten notes into structured, adaptive study materials using OCR and generative AI, built as a major engineering project with a multi-phase feature roadmap.
-
-| Category | Details |
-|---|---|
-| **Stack** | Flutter, Provider, Hive, Google ML Kit OCR, Gemini 1.5 Flash API, Clean Architecture |
-| **Scale** | 8 differentiated features planned across multiple delivery phases |
-| **Performance** | Local-first storage via Hive for low-latency note access and offline resilience |
-| **Security** | On-device OCR processing; scoped API usage for generative endpoints |
-| **Impact** | Automates conversion of handwritten notes into summaries, key points, MCQs, and short-answer questions |
-| **Repository** | [github.com/your-username/notesnap](https://github.com/your-username) |
-
-Built on a Clean Architecture foundation, NoteSnap evolved from a base OCR-to-notes pipeline into an intelligent study system. Phase 1 introduced an **Adaptive Learning System** using SM-2 spaced repetition alongside a **Smart Revision Planner**. The broader roadmap includes a RAG-based AI Study Buddy Chatbot, a Semester Knowledge Base, Exam Preparation Mode, Teacher Emphasis Detection, Collaborative Notes, and an AI Exam Predictor — each evaluated for honest technical trade-offs (e.g. collaborative features require real backend infrastructure; predictive accuracy claims are scoped conservatively). Significant engineering effort went into resolving Android build-toolchain conflicts (Gradle, AGP, Kotlin, JDK) to reach a stable, reproducible build configuration.
-
-</details>
 
 <details>
 <summary><strong>🛒 Full-Stack E-Commerce Platform</strong></summary>
@@ -137,32 +108,50 @@ A complete e-commerce web application with authentication, product reviews, rati
 | **Performance** | RESTful API design with MongoDB indexing for catalog queries |
 | **Security** | JWT-based authentication and authorization |
 | **Impact** | End-to-end shopping flow: browsing, reviewing, rating, and wishlisting |
-| **Repository** | [github.com/your-username/ecommerce-platform](https://github.com/your-username) |
+| **Repository** | [github.com/sri-kumaran-ct/e_commerce-app](https://github.com/sri-kumaran-ct/e_commerce-app) |
 
 Designed and built as a full ownership project covering the entire stack — from MongoDB schema design through a Tailwind-styled React frontend — with JWT securing all authenticated routes and mutation endpoints.
 
 </details>
 
-<details>
-<summary><strong>🚚 Delivery Route Optimization Platform</strong></summary>
+
+<summary><strong>📰 Blog App</strong></summary>
 
 <br/>
 
-A logistics platform for optimizing delivery routes, originally architected around PostgreSQL and Docker before being re-engineered onto Firebase.
+A full-stack blogging platform that allows users to create, edit, publish, and manage blog posts through a modern web interface.
 
 | Category | Details |
 |---|---|
-| **Stack** | Next.js 14, Firebase, Express, Leaflet |
-| **Scale** | Route visualization and optimization across multiple delivery points |
-| **Performance** | Client-side map rendering via Leaflet with Firebase real-time sync |
-| **Security** | Firebase Authentication and rules-based data access |
-| **Impact** | Simplified deployment and removed local infrastructure friction on Windows |
-| **Repository** | [github.com/your-username/route-optimizer](https://github.com/your-username) |
+| **Stack** | React, Node.js, Express, MongoDB |
+| **Scale** | Blog publishing with complete CRUD functionality |
+| **Performance** | Fast content retrieval through RESTful APIs and optimized database queries |
+| **Security** | Server-side validation and protected API endpoints |
+| **Impact** | Demonstrated end-to-end web application development with dynamic content management |
+| **Repository** | [github.com/sri-kumaran-ct/Blog-app](https://github.com/sri-kumaran-ct/Blog-app) |
 
-Initially designed with PostgreSQL and Docker, the project was deliberately re-architected to Firebase after encountering local containerization friction on Windows — a pragmatic infrastructure decision that prioritized delivery velocity over the original design.
+Developed to explore content management workflows and full-stack architecture while implementing clean API design and reusable frontend components.
 
 </details>
 
+<summary><strong>📝 Task Manager App</strong></summary>
+
+<br/>
+
+A full-stack task management application that enables users to organize, track, and manage daily tasks through a clean and responsive interface.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB |
+| **Scale** | CRUD operations for task creation, editing, deletion, and status tracking |
+| **Performance** | REST API with efficient database operations and responsive UI |
+| **Security** | Input validation and secure backend API endpoints |
+| **Impact** | Streamlined personal task management with an intuitive user experience |
+| **Repository** | [github.com/sri-kumaran-ct/task-management](https://github.com/sri-kumaran-ct/task-management) |
+
+Built to strengthen full-stack development skills by integrating frontend, backend, and database technologies into a complete CRUD application while following a modular project structure.
+
+</details>
 ---
 
 ## Experience
@@ -172,11 +161,12 @@ Initially designed with PostgreSQL and Docker, the project was deliberately re-a
 
 Leading end-to-end development of NoteSnap, an AI-powered Flutter application, from architecture through phased feature delivery.
 
-- Designed Clean Architecture mobile system integrating OCR and generative AI pipelines
-- Implemented adaptive learning algorithms (SM-2 spaced repetition) for personalized study scheduling
-- Produced architecture diagrams and ERDs for technical presentations and stakeholder review
-- Resolved complex Android build-toolchain conflicts across Gradle, AGP, Kotlin, and JDK versions
-- Scoped an 8-feature product roadmap with honest technical trade-off evaluations
+- Leading end-to-end development of NoteSnap, an AI-powered Flutter application
+- Designed a Clean Architecture mobile system integrating OCR and generative AI
+- Integrated the SM-2 spaced repetition algorithm for personalized study scheduling
+- Produced architecture diagrams and ERDs for technical presentations
+- Resolved Android build compatibility issues involving Gradle, AGP, Kotlin, and JDK versions
+- Planned an 8-feature product roadmap with documented technical trade-offs
 
 `Flutter` `Gemini API` `Google ML Kit` `Provider` `Hive` `Clean Architecture`
 
@@ -208,31 +198,22 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 Major Project Selection | NoteSnap selected as final-year engineering major project |
-| 📊 Applied Research | Conducted independent data analytics study on AI's impact on academic outcomes |
-| 🎬 Content Creation | Built and grew an independent YouTube channel with AI-assisted production workflows |
-
-</div>
-
----
 
 ## Certifications
 
 <div align="center">
 
-**Amazon Web Services**
+**MongoDB**
 
-![AWS](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
+![MongoDB](https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e)
 
-**Oracle**
+**RapidMiner**
 
-![Oracle](https://img.shields.io/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-Certified?style=for-the-badge&logo=rapidminer&logoColor=white&labelColor=1a1a2e)
+
+**IBM**
+
+![IBM](https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1a1a2e)
 
 **NPTEL**
 
@@ -250,10 +231,8 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<a href="https://codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://leetcode.com/sri_kumaran_ct"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://codechef.com/users/teeyeskay07"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -263,12 +242,12 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sri-kumaran-ct&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-kumaran-ct&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-kumaran-ct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -278,7 +257,7 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Repositories,Followers,Issues,Experience" />
+<img src="https://github-profile-trophy.vercel.app/?username=sri-kumaran-ct&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Repositories,Followers,Issues,Experience" />
 
 </div>
 
@@ -288,7 +267,7 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9A7FF&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-kumaran-ct&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9A7FF&area=true" width="100%"/>
 
 </div>
 
@@ -298,7 +277,7 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sri-kumaran-ct/sri-kumaran-ct/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -309,22 +288,32 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 ```yaml
 current_focus:
   learning:
-    - Retrieval-Augmented Generation (RAG) architectures
-    - Advanced Flutter state management patterns
-    - System design for AI-integrated mobile applications
+    - Data Structures & Algorithms (LeetCode & competitive programming)
+    - Full Stack Development (React, Node.js, Express, MongoDB)
+    - Flutter application development and Clean Architecture
+    - AI/ML fundamentals and practical integration
+
   building:
-    - NoteSnap AI Study Buddy Chatbot (RAG-based)
-    - Semester Knowledge Base & Exam Preparation Mode
-    - YouTube gaming content pipeline with AI-assisted editing
+    - NoteSnap AI Study Buddy (Flutter + Gemini API + Google ML Kit)
+    - Personal portfolio and GitHub profile
+    - Delivery Route Optimization Platform
+    - MERN-based full-stack applications
+
+  preparing:
+    - Software Engineering interview preparation
+    - Placement aptitude and coding assessments
+    - Resume and project portfolio improvements
+
   exploring:
-    - AI-generated cinematic video production (Runway, Kling, ElevenLabs)
-    - Collaborative real-time backend architectures
-    - Applied ML for exam prediction systems
+    - Firebase and cloud-based application deployment
+    - System design fundamentals
+    - AI-powered productivity applications
+
   open_to:
     - Software Engineering roles
-    - AI/ML Engineering roles
-    - Full Stack Engineering roles
-    - Internship opportunities
+    - Full Stack Developer roles
+    - AI/ML Engineering internships
+    - SDE internships
 ```
 
 ---
@@ -333,9 +322,9 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:srikumaranct.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="www.linkedin.com/in/sri-kumaran-ct-119b43328"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/sri-kumaran-ct"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
 
 </div>
