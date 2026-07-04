@@ -12,7 +12,7 @@
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
 <br/>
-
+<a href="portfolio-sri-kumaran-ct.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="www.linkedin.com/in/sri-kumaran-ct-119b43328"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="mailto:srikumaranct.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/sri-kumaran-ct"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
