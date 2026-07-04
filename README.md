@@ -314,9 +314,9 @@ current_focus:
 <div align="center">
 
 <a href="mailto:srikumaranct.cse2024@citchennai.net"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="www.linkedin.com/in/sri-kumaran-ct-119b43328"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/sri-kumaran-ct-119b43328"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/sri-kumaran-ct"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="[https://your-portfolio-link.com](https://portfolio-sri-kumaran-ct.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
 
 </div>
 
