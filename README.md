@@ -114,7 +114,7 @@ Designed and built as a full ownership project covering the entire stack — fro
 
 </details>
 
-
+<details>
 <summary><strong>📰 Blog App</strong></summary>
 
 <br/>
@@ -134,6 +134,7 @@ Developed to explore content management workflows and full-stack architecture wh
 
 </details>
 
+<details>
 <summary><strong>📝 Task Manager App</strong></summary>
 
 <br/>
