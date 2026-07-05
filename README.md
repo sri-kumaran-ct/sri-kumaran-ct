@@ -242,24 +242,15 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sri-kumaran-ct&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-kumaran-ct&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-kumaran-ct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+
 
 </div>
 
 ---
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sri-kumaran-ct&theme=discord&no-frame=true" />
-
-</div>
 
 
 ## Contribution Activity
