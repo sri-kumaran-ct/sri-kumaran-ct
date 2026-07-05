@@ -157,8 +157,8 @@ Built to strengthen full-stack development skills by integrating frontend, backe
 
 ## Experience
 
-**AI/ML & Mobile Engineering Project Lead** · *Independent / Academic Major Project*
-`Recent`
+**AI/ML & Mobile Engineering Project** · *Independent / Academic Major Project*
+`Ongoing`
 
 Leading end-to-end development of NoteSnap, an AI-powered Flutter application, from architecture through phased feature delivery.
 
@@ -167,7 +167,6 @@ Leading end-to-end development of NoteSnap, an AI-powered Flutter application, f
 - Integrated the SM-2 spaced repetition algorithm for personalized study scheduling
 - Produced architecture diagrams and ERDs for technical presentations
 - Resolved Android build compatibility issues involving Gradle, AGP, Kotlin, and JDK versions
-- Planned an 8-feature product roadmap with documented technical trade-offs
 
 `Flutter` `Gemini API` `Google ML Kit` `Provider` `Hive` `Clean Architecture`
 
