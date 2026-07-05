@@ -257,7 +257,7 @@ Conducted a large-scale analytics study on AI's impact on student academic outco
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Stars,PullRequest,Repositories,Followers,Issues,Experience" />
+<img src="https://github-profile-trophy.vercel.app/?username=sri-kumaran-ct&theme=discord&no-frame=true" />
 
 </div>
 
